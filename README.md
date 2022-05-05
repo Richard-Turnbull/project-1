@@ -26,3 +26,4 @@ Rough breakdown of tasks:
 * review and make predictions (tell the story)
 * agree how to structure the delivery
 
+Please refer to 'Project-1-Notebook.ipynb' for our Jupyter Notebook file.
